@@ -1,6 +1,7 @@
 Arduino libraries take a complex task and boil it down to simple to use functions.
 
 Installing a Library - Windows
+
 This section covers installing a library under the Windows environment. Find the zip file on your local computer (wherever downloaded files end up). Under Windows, you should be able to double click on the file to open it up.
 Libraries will usually contain a .cpp file and .h file. Most will also contain an examples folder.
 Under Windows, Arduino stores all the add-on libraries within the My Documents folder.
