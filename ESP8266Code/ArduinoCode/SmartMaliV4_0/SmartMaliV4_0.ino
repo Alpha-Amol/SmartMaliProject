@@ -14,13 +14,13 @@
 Adafruit_ADS1115 ads;  /* Use this for the 16-bit version */
 
 // WiFi network info.
-char ssid[] = "LittleHeart";            //Add your home wifi network ssid 
-char wifiPassword[] = "Automate@111";   //Add wifi password
+char ssid[] = "Liteart";            //Add your home wifi network ssid 
+char wifiPassword[] = "Aumate@11231";   //Add wifi password
 
 // Cayenne authentication info. This should be obtained from the Cayenne Dashboard.
-char username[] = "9ccd05e0-6584-11e7-8378-e1a615c9f526";       //Add your username
-char password[] = "98b38f9c8518d6c03c6c53fd9819be59ddc03c8e";   //Add your password
-char clientID[] = "1ccd5020-ae9f-11e7-b0e9-e9adcff3788e";       //Add your clientID
+char username[] = "9ccd05e0-6584-11e6-8378-e1a125c94566";       //Add your username
+char password[] = "98b38f9c1258d6c03c6c53fd7878be59ddc07586";   //Add your password
+char clientID[] = "1ccd4569-1212-11e6-b0e9-e9adcff7878e";       //Add your clientID
 
 unsigned long lastMillis = 0;
 
